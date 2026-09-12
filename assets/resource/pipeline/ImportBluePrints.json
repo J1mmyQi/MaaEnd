@@ -73,10 +73,13 @@
                     110
                 ],
                 "expected": [
+                    "导入",
+                    "匯入",
+                    "Import",
+                    "インポート",
                     "导入蓝图",
                     "匯入藍圖",
-                    "Import Blueprint",
-                    "Import"
+                    "Import Blueprint"
                 ]
             }
         },
