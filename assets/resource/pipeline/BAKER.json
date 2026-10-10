@@ -210,7 +210,8 @@
         ],
         "expected": [
             "保存",
-            "儲存"
+            "儲存",
+            "Save"
         ],
         "action": "Click",
         "post_wait_freezes": 1,
