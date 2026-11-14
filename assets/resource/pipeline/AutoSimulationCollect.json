@@ -139,6 +139,7 @@
             "筛选匹配",
             "篩選",
             "Sort",
+            "フィルタ",
             "ソート",
             "筛选"
         ],
@@ -257,6 +258,7 @@
             "筛选匹配",
             "篩選",
             "Sort",
+            "フィルタ",
             "ソート",
             "筛选"
         ],
@@ -346,11 +348,12 @@
         "expected": [
             "直接完成模拟",
             "直接完成模擬",
-            "Content Mastered",
-            "Complete SIM",
+            "Complete Simulation",
             "模擬完了",
             "掌握",
             "Fully Grasped",
+            "Content Mastered",
+            "Complete SIM",
             "已掌握"
         ],
         "action": {
